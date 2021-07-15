@@ -20,6 +20,23 @@ const userSchema = new Schema({
     required: true,
     unique: true
   },
+  phoneNumber: {
+    type: String,
+    required: true,
+    minlength: 10,
+  }, 
+  address: {
+    type: String,
+    required: true,
+  } 
+  numberPets: {
+    type: Number,
+    trim: true,
+  },
+  petsName: {
+    type: String,
+    trim: true,
+  },
   password: {
     type: String,
     required: true,
