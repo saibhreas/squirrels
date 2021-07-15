@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "60f0057a808e2ce21ea56e10",
+    "name": "Lina Kelley",
+    "email": "linakelley@manglo.com",
+    "phone": "+1 (807) 402-3833",
+    "address": "428 Ridgewood Avenue, Cannondale, Louisiana, 9214",
+    "numberPets": 5,
+    "petsName": "Concepcion",
+    "password": "voluptate"
+  },
+  {
+    "_id": "60f0057a17581be0ce5de97d",
+    "name": "Tracey Park",
+    "email": "traceypark@manglo.com",
+    "phone": "+1 (978) 431-3616",
+    "address": "865 Joralemon Street, Lacomb, Connecticut, 3652",
+    "numberPets": 5,
+    "petsName": "Jenny",
+    "password": "voluptate"
+  },
+  {
+    "_id": "60f0057a64c5974aa1dbab4c",
+    "name": "Letitia Rosa",
+    "email": "letitiarosa@manglo.com",
+    "phone": "+1 (845) 462-3572",
+    "address": "623 Grafton Street, Northridge, North Dakota, 2699",
+    "numberPets": 10,
+    "petsName": "Enid",
+    "password": "ut"
+  },
+  {
+    "_id": "60f0057a769563b841f2b34c",
+    "name": "Jewel Mcdonald",
+    "email": "jewelmcdonald@manglo.com",
+    "phone": "+1 (989) 569-3841",
+    "address": "438 Bragg Street, Nipinnawasee, Puerto Rico, 3995",
+    "numberPets": 1,
+    "petsName": "Branch",
+    "password": "eu"
+  },
+  {
+    "_id": "60f0057a9b2a9d05f8336552",
+    "name": "Fields Hampton",
+    "email": "fieldshampton@manglo.com",
+    "phone": "+1 (837) 431-2903",
+    "address": "133 Danforth Street, Floriston, Colorado, 3756",
+    "numberPets": 3,
+    "petsName": "Kirkland",
+    "password": "est"
+  },
+  {
+    "_id": "60f0057a59cee730d4ea9417",
+    "name": "Lacey Knowles",
+    "email": "laceyknowles@manglo.com",
+    "phone": "+1 (878) 513-3799",
+    "address": "211 Emerson Place, Darlington, Delaware, 4711",
+    "numberPets": 4,
+    "petsName": "Newton",
+    "password": "aliqua"
+  },
+  {
+    "_id": "60f0057a7558eee48d14466a",
+    "name": "Sadie Stevens",
+    "email": "sadiestevens@manglo.com",
+    "phone": "+1 (813) 497-3372",
+    "address": "290 Brooklyn Avenue, Lowgap, Iowa, 3602",
+    "numberPets": 8,
+    "petsName": "Iris",
+    "password": "exercitation"
+  },
+  {
+    "_id": "60f0057aba5536ca9f033612",
+    "name": "Jamie Vinson",
+    "email": "jamievinson@manglo.com",
+    "phone": "+1 (955) 517-2501",
+    "address": "402 Stewart Street, Greensburg, New York, 1706",
+    "numberPets": 6,
+    "petsName": "Huff",
+    "password": "consequat"
+  },
+  {
+    "_id": "60f0057a5b51ae3ad6b6be69",
+    "name": "Aline Scott",
+    "email": "alinescott@manglo.com",
+    "phone": "+1 (951) 525-2700",
+    "address": "763 Ide Court, Needmore, Oregon, 5572",
+    "numberPets": 10,
+    "petsName": "Frankie",
+    "password": "consectetur"
+  },
+  {
+    "_id": "60f0057ad918cf893a691672",
+    "name": "Moran Mckenzie",
+    "email": "moranmckenzie@manglo.com",
+    "phone": "+1 (975) 429-2781",
+    "address": "370 Evergreen Avenue, Cassel, Idaho, 3899",
+    "numberPets": 10,
+    "petsName": "Edwards",
+    "password": "dolore"
+  }
+]
